@@ -12,8 +12,8 @@ var total = 30;
 var font;
 var s, bgStatic;
 var txt = "HAPPY BIRTHDAY";
-var name = "Sunanaina";
-var msg = "'wish you long life'";
+var name = "Sunayana";
+var msg = "'Happy Birthday Mate! Many happy returns of the day. Enjoy it to the fullest because today is your day.'";
 var sfxPop;
 
 function preload() {
